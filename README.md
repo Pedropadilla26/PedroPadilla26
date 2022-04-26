@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Padilla</h1>
-<h3 align="center">A passionate junior fullstack developer from Spain</h3>
+<h3 align="center">A passionate, junior fullstack developer from Spain</h3>
 
-- 🔭 I’m currently working on **Oculo in Celtiberian Solutions**
+- 🔭 I’m currently working for **Celtiberian Solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
