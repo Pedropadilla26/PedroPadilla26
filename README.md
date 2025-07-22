@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Padilla</h1>
 <h3 align="center">A passionate software engineer from Spain</h3>
 
-- 🔭 I mainly work with javascript and typescript and different frameworks for them
+- 🔭 I mainly work with typescript and different js/ts libraries and frameworks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
